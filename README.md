@@ -1,4 +1,6 @@
-#### my certificates
+#### certificates
+<img src="/img/Cert201207.png">
+
 ntuc LearningHub
 Course Modues for JAVA DEVELOPER
 ===
