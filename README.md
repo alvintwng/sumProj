@@ -1,13 +1,26 @@
-#### certificates
-<img src="/img/Cert201207.png">
+[ntuc LearningHub](https://www.ntuclearninghub.com/java-developer/)
 
-ntuc LearningHub
 Course Modues for JAVA DEVELOPER
 ===
 BatchID: VLC-SGITTJD-20--650
 
 [top]: topOfThePage
 
+#### What do Java Developers Do?
+Java Developers are computer programmers who are proficient with coding in Java. Their primary responsibilities include designing and implementing Java applications, developing and testing software and resolving technical issues that arise.
+
+#### Responsibilities
+- Design, develop, implement, and maintain java application phases, code, and software.
+- Conduct software analysis, programming, testing, and debugging, as well as recommending changes to improve the established processes.
+- Transform requirements into stipulations and identify production and non-production application issues
+- To take part in software and architectural development activities
+- Preparing and producing releases of software components
+
+---
+This is a full-time training programme conducted over 9 months.
+
+
+#### Ng T W's certificates
 | batch | Module | | img/details |
 | ---: | --- | --- | --- |
 | 01 | NICF - MTA: SOFTWARE DEVELOPMENT FUNDAMENTALS (SF | | <img src="/img/Cert200921.png" alt="" height="144"> |
