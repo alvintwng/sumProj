@@ -41,9 +41,9 @@ This is a full-time training programme conducted over 9 months.
 | 16 | NICF - DEVOPS FOUNDATION (SF) | | <img src="/img/Cert210122.png" alt="" height="144"> |
 | 17 | JAVA DEVELOPER-CAPSTONE PROJECT 6 | | <img src="/img/Cert210126.png" alt="" height="144"> |
 | 18 | JAVA DEVELOPER - SUMMATIVE CAPSTONE PROJECT | | <img src="" alt="" height="144"> |
-| - | | | <img src="" alt="" height="144"> |
-| 19 | Chris Croft Training - Project Management| | <img src="/img/Cert201020A.png" alt="" height="72"> |
-| 20 | Chris Croft Training - Agile vs Waterfall| | <img src="/img/Cert201020A.png" alt="" height="72"> |
+| 19 | JAVA DEVELOPER - Java Developer| | <img src="/img/Cert210709.png" alt="" height="144"> |
+| 20 | Chris Croft Training - Project Management| | <img src="/img/Cert201020A.png" alt="" height="72"> |
+| 21 | Chris Croft Training - Agile vs Waterfall| | <img src="/img/Cert201020A.png" alt="" height="72"> |
 
 [:top: Top](#top)
 
